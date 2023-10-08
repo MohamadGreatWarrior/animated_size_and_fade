@@ -1,8 +1,8 @@
 [![pub package](https://img.shields.io/pub/v/animated_size_and_fade.svg)](https://pub.dartlang.org/packages/animated_size_and_fade)
 
-"LIBERATE VILLAGE"
+## Changes
 
-Chaning the animation from the hight into the width.
+Adding the ability to animate height or width.
 
 # animated_size_and_fade
 
